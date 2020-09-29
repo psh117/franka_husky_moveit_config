@@ -1,0 +1,1 @@
+# franka_husky_moveit_config
